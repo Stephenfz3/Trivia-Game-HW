@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://media2.giphy.com/media/BlcWQ9L2VfOFO/giphy.gif?cid=790b76115d2fce516174696b3642b6e7&rid=giphy.gif);
+      text-align: center;
+      background-color: black; 
+  }
+  #remaining-time.lead{
+    color:white;
+    font-family: 'Bahianita', cursive;
+    font-size:40px;
+  }
+  #question.lead{
+  color:white;
+  font-family: 'Bahianita', cursive;
+  font-size:40px;
+  }
+  
+  .title{
+    font-family: 'Bahianita', cursive;
+    color: white; 
+  }
+  
+  .option{
+    margin: 15px;
+  }
+  .jumbotron{
+      background-color:#01010bb5;
+      border-color:greenyellow;
+  }
+  .remaining-time{
+    color:white;
+  }
+  button.option{
+    background-color: rgba(0, 0, 0, 0.475);
+    border-color: green;
+    font-family: 'Bahianita', cursive;
+    font-size:25px;
+  }
+  #results{
+    color:white;
+    font-family: 'Bahianita', cursive;
+    font-size: 30px;
+  }
+  #start{
+    background-color: rgba(0, 0, 0, 0.475);
+    border-color: green;
+    font-family: 'Bahianita', cursive;
+    font-size:25px;
+  }
